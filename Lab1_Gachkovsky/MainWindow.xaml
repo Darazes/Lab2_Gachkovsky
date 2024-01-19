@@ -11,7 +11,7 @@
         <Menu>
             <MenuItem x:Name="Company" Header="Физические лица" Click="Company_OnClick"></MenuItem>
             <MenuItem x:Name="Person" Header="Клиенты" Click="Person_OnClick"></MenuItem>
-            <MenuItem x:Name="OrgRegistration" Header="Орагны регистрации" Click="OrgRegistration_OnClick"></MenuItem>
+            <MenuItem x:Name="OrgRegistration" Header="Органы регистрации" Click="OrgRegistration_OnClick"></MenuItem>
             <MenuItem x:Name="OrgLegForm" Header="Организационно-правовые формы" Click="OrgLegForm_OnClick"></MenuItem>
         </Menu>
 
